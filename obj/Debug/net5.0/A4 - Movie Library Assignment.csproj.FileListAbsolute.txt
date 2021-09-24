@@ -1,0 +1,18 @@
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.csprojAssemblyReference.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.AssemblyInfoInputs.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.AssemblyInfo.cs
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\A4 - Movie Library Assignment.exe
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\A4 - Movie Library Assignment.deps.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\A4 - Movie Library Assignment.runtimeconfig.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\A4 - Movie Library Assignment.runtimeconfig.dev.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\A4 - Movie Library Assignment.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\ref\A4 - Movie Library Assignment.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\A4 - Movie Library Assignment.pdb
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\ref\A4 - Movie Library Assignment.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.pdb
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.genruntimeconfig.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A4 - Movie Library Assignment\obj\Debug\net5.0\A4 - Movie Library Assignment.csproj.CopyComplete

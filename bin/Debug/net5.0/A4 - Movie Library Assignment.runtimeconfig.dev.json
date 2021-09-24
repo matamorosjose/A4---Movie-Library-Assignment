@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jlmat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jlmat\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bg/rone87xtoLU4NOinjj/wljaRtEJuKrFv226DQZ4/DnjHmxM9iXn7/0+Vj/128aXiFheBJEEsxwx4nU++KsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlmat\\Documents\\WCTC\\.Net_Class\\A4 - Movie Library Assignment\\A4 - Movie Library Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlmat\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
